@@ -1,2 +1,2 @@
-# SlotGame
+# SlotGame 
 Thesis project
